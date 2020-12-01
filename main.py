@@ -190,7 +190,7 @@ def Turing(text_words=""):
     return result
  
 
-# 使用pyttsx3 进行语音播放，
+# 使用pyttsx3 进行
 def Speak2(string):
     engine=pyttsx3.init()
     rate=engine.getProperty('rate')
