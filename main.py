@@ -201,6 +201,7 @@ def Speak2(string):
     engine.runAndWait()
   
 # 语音合成，输出机器人的回答
+# 下方注释可以取消进行语音交互
 #while True:
     #my_record()
     #record_audio()
